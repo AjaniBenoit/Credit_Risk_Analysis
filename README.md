@@ -6,7 +6,6 @@ Supervised Machine Learning
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques were used to train and evaluate models with unbalance classes. The imbalanced-learn and scikit-learn libraries were used to build evaluate models using resample. 
 
-Using Javascript to creat an earthquake map in relation to the tectonic location on earth with magnitudes greater than 4.5 on the Map. 
 
 ### Results 
 
